@@ -1,24 +1,36 @@
 # Devcamp_Porfolio2
 
-This README would normally document whatever steps are necessary to get the
+> This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+###RAWR
 
-* Ruby version
+Things you may want to _cover_:
 
-* System dependencies
+* Rugby version
 
-* Configuration
+* Sypsteam dependencies
 
-* Database creation
+* Contwiguration
 
-* Database initialization
+* Databosse creation
 
-* How to run the test suite
+* Databosse initialization
 
-* Services (job queues, cache servers, search engines, etc.)
+* How to wun the test suite
 
-* Deployment instructions
+* Servuces (job queues, cache servers, search engines, etc.)
+
+* Deploment instructions
 
 * ...
+
+```ruby
+rawr rawr rwar rwar rwar rwar war
+rwar wrwar
+end
+```
+
+```javascript
+alert('RAWR')
+```
